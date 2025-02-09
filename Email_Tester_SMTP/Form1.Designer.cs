@@ -102,7 +102,7 @@
             // 
             // btnSendEmail
             // 
-            btnSendEmail.Location = new Point(505, 207);
+            btnSendEmail.Location = new Point(505, 194);
             btnSendEmail.Name = "btnSendEmail";
             btnSendEmail.Size = new Size(115, 37);
             btnSendEmail.TabIndex = 12;
@@ -171,6 +171,7 @@
             txtToEmail.Name = "txtToEmail";
             txtToEmail.Size = new Size(318, 27);
             txtToEmail.TabIndex = 5;
+            txtToEmail.Text = "address@Domain.com";
             // 
             // txtFromEmail
             // 
